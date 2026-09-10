@@ -8,3 +8,6 @@ Automatic Jenkins trigger test after successful baseline.
 ## Jenkins CI Demonstration
 
 Jenkins SCM polling automatic trigger demonstration completed.
+## Automatic Trigger Test
+
+Jenkins automatic SCM polling test completed.
